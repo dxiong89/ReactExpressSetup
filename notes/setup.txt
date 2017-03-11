@@ -1,0 +1,16 @@
+1.open terminal
+2.npm init
+
+3.if you dont have bower installed use this
+    npm install -g bower
+
+4.bower init
+    should store bower.json to project
+
+5.type nul > .gitignore
+    node_modules
+    bower_components
+
+6. npm install --save expresss
+6a. node server/main.js
+7. npm install ejs ; if cannot find ejs
